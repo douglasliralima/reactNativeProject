@@ -9,6 +9,7 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+aora-main/
 
 # macOS
 .DS_Store
